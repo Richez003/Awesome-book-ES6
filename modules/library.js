@@ -18,10 +18,12 @@ class BooksdataBase {
       bookTitle.value = '';
       bookAuthor.value = '';
     });
+
     localStorage.setItem('bookStorage', JSON.stringify(this.booksList));
     this.localstorage();
   }
 
+  
   showBook(title, author, id) {
     if (title === '' || author === '') {
       addBk.removeEventListener('click', false, false);

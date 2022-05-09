@@ -1,7 +1,5 @@
 # Awsome-book-using-ES6
 # capstone project
-
-> Setting up a portfolio desktop page.
 ## Built With
 
 - HTML
@@ -24,7 +22,6 @@ Feel free to check the: [link](https://richez003.github.io/Awsome-book-using-ES6
 ## 🤝 Contributing
 👤 **Kayonga Chiteta**
 
-- GitHub: [@Kayonga99](https://github.com/Kayonga99)
 - Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3
 Contributions, issues, and feature requests are welcome!
 

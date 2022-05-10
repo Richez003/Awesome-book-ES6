@@ -1,15 +1,10 @@
 # Awsome-book-using-ES6
-# capstone project
+
 ## Built With
 
 - HTML
 - CSS
-- javadcript
-
-## contributor
-
-## live Demo
-Feel free to check the: 
+- javascript
 
 ## Author
 👤 **Richard Friday**
@@ -35,4 +30,3 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.

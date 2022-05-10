@@ -9,7 +9,7 @@
 ## contributor
 
 ## live Demo
-Feel free to check the: [link](https://richez003.github.io/Awsome-book-using-ES6/).
+Feel free to check the: 
 
 ## Author
 👤 **Richard Friday**
@@ -20,10 +20,6 @@ Feel free to check the: [link](https://richez003.github.io/Awsome-book-using-ES6
 
 
 ## 🤝 Contributing
-👤 **Kayonga Chiteta**
-
-- Twitter: [@KayongaChiteta3](https://twitter.com/KayongaChiteta3
-Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
